@@ -3,3 +3,13 @@ target/
 .idea/
 *.iml
 .DS_Store
+
+# Spring Boot and Vaadin
+**/target/
+**/.idea/
+**/frontend/generated/
+**/src/main/frontend/generated/
+**/src/main/bundles/
+**/src/main/resources/META-INF/VAADIN/
+**/node_modules/
+**/.vaadin/
